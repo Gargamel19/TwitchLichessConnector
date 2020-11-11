@@ -10,7 +10,7 @@ public class TwitchChat {
     HashMap<String, String> guesses = new HashMap<>();
 
     boolean running = true;
-    String token = "oauth:tzm4sb6ue2saygc24rf3s2l6wkp8x6";
+    String token = "oauth:xyz";
     String nick;
     String channel;
     Socket socket;
